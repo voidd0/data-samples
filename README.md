@@ -6,13 +6,13 @@ and change nothing else unless a set's section says so.
 
 | Set | Rows | Files |
 |---|---|---|
-| [justjoin.it every Monday: Python, Java, JavaScript and data jobs in Poland](#weekly-files-jobs-in-poland-replaced-every-monday) | every offer of the week | [weekly/](weekly/) |
+| [Every Monday: Python, Java, JavaScript and data jobs in Poland (justjoin.it), accountant jobs in Mexico and Colombia (Computrabajo)](#weekly-files-replaced-every-monday) | every offer of the week | [weekly/](weekly/) |
 | [justjoin.it: every Python offer in Poland on one day](#justjoinit-every-python-offer-in-poland-on-one-day) | 528 | [CSV](justjoin-it/python-jobs-poland-justjoin-2026-11-26.csv), [analysis.py](justjoin-it/analysis.py) |
 | [pracuj.pl: Python jobs in Warszawa, Poland](#pracujpl-python-jobs-in-warszawa-poland) | 50 | [CSV](pracuj-pl/python-warszawa-50.csv), [JSON](pracuj-pl/python-warszawa-50.json) |
 | [computrabajo: accountant jobs in Bogotá, Colombia](#computrabajo-accountant-jobs-in-bogotá-colombia) | 25 | [CSV](computrabajo/co-contador-bogota-25.csv), [JSON](computrabajo/co-contador-bogota-25.json) |
 | [computrabajo: accountant jobs in Monterrey, Mexico](#computrabajo-accountant-jobs-in-monterrey-mexico) | 10 | [CSV](computrabajo/mx-contador-monterrey-10.csv), [JSON](computrabajo/mx-contador-monterrey-10.json) |
 
-## Weekly files: jobs in Poland, replaced every Monday
+## Weekly files, replaced every Monday
 
 - **Python** job offers in Poland from justjoin.it, replaced every Monday: [CSV](weekly/pl-python/pl-python-latest.csv), [summary.json](weekly/pl-python/summary.json); salary summary: https://voiddo.com/data/python-jobs-poland-salaries/?src=github-pl-python
 - **Java** job offers in Poland from justjoin.it, replaced every Monday: [CSV](weekly/pl-java/pl-java-latest.csv), [summary.json](weekly/pl-java/summary.json); salary summary: https://voiddo.com/data/java-jobs-poland-salaries/?src=github-pl-java
@@ -24,6 +24,16 @@ offer, with the same columns as the justjoin.it set below. Every Monday the CSV 
 folder keeps every earlier week. `summary.json` gives the date, the counts and when the rows were collected. "Data" is
 justjoin.it's own category: data engineering, big data and BI offers. An ad of a sole trader whose business carries a
 person's name keeps that name and its link withheld. CC BY 4.0, as in the License section.
+
+- **Accountant** (contador) job offers in Mexico from Computrabajo, replaced every Monday: [CSV](weekly/mx-contador/mx-contador-latest.csv), [summary.json](weekly/mx-contador/summary.json); salary summary, in Spanish: https://voiddo.com/es/sueldos-contador-mexico/?src=github-mx-contador
+- **Accountant** (contador) job offers in Colombia from Computrabajo, replaced every Monday: [CSV](weekly/co-contador/co-contador-latest.csv), [summary.json](weekly/co-contador/summary.json); salary summary, in Spanish: https://voiddo.com/es/sueldos-contador-colombia/?src=github-co-contador
+
+Each of these two holds every posting of the search "contador" on mx.computrabajo.com or co.computrabajo.com, the
+whole country, published or updated in the 7 days before the run (`posted_from` and `posted_to` in `summary.json`), one
+row per posting, 25 columns, UTF-8 with BOM. The search also brings related jobs such as auxiliar contable. Salaries are
+in the country's own currency, as the posting states them. No descriptions, recruiters or contacts. When the employer is
+a private person, `company` says "(persona física, nombre omitido)", `jobId` is empty and `url` points to the search
+page.
 
 ## justjoin.it: every Python offer in Poland on one day
 
