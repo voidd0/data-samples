@@ -78,7 +78,8 @@ the site showed them. The scraper collects no recruiter names or phone numbers.
 | Made with | [computrabajo-scraper](https://voiddo.com/go/apify/computrabajo-scraper/?src=gh) on Apify, country `co`, keyword "contador", city Bogotá |
 
 The same 18 columns as the Mexico file below. 19 of the 25 ads show a salary, in COP per month. Six ads come from
-an employer that hides its name ("Importante empresa del sector").
+an employer that hides its name ("Importante empresa del sector"). One ad, row 2, comes from a private person: its
+`company` says "(persona física, nombre omitido)", its `jobId` is empty and its `url` points to the search page.
 
 ## computrabajo: accountant jobs in Monterrey, Mexico
 
