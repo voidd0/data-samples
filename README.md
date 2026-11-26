@@ -57,8 +57,12 @@ that hides its name.
 Left out on purpose: the job description text, because it can carry a recruiter's name, email or phone. We checked
 every kept text column for emails and phone numbers and found none.
 
-The rows are public job ads as Computrabajo showed them on that day. We claim no rights in them; you are responsible
-for how you use them, under the law where you use them and the rules of the site.
+## License
+
+The rows are a compilation by vøiddo, shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The job
+ads themselves belong to their publishers, and each row links to the original. They are public job ads as each site
+showed them on the day of the run; you are responsible for how you use them, under the law where you use them and the
+rules of the site.
 
 ## want rows like these for your own search?
 
