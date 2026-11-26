@@ -6,10 +6,24 @@ and change nothing else unless a set's section says so.
 
 | Set | Rows | Files |
 |---|---|---|
+| [justjoin.it every Monday: Python, Java, JavaScript and data jobs in Poland](#weekly-files-jobs-in-poland-replaced-every-monday) | every offer of the week | [weekly/](weekly/) |
 | [justjoin.it: every Python offer in Poland on one day](#justjoinit-every-python-offer-in-poland-on-one-day) | 528 | [CSV](justjoin-it/python-jobs-poland-justjoin-2026-11-26.csv), [analysis.py](justjoin-it/analysis.py) |
 | [pracuj.pl: Python jobs in Warszawa, Poland](#pracujpl-python-jobs-in-warszawa-poland) | 50 | [CSV](pracuj-pl/python-warszawa-50.csv), [JSON](pracuj-pl/python-warszawa-50.json) |
 | [computrabajo: accountant jobs in Bogotá, Colombia](#computrabajo-accountant-jobs-in-bogotá-colombia) | 25 | [CSV](computrabajo/co-contador-bogota-25.csv), [JSON](computrabajo/co-contador-bogota-25.json) |
 | [computrabajo: accountant jobs in Monterrey, Mexico](#computrabajo-accountant-jobs-in-monterrey-mexico) | 10 | [CSV](computrabajo/mx-contador-monterrey-10.csv), [JSON](computrabajo/mx-contador-monterrey-10.json) |
+
+## Weekly files: jobs in Poland, replaced every Monday
+
+- **Python** job offers in Poland from justjoin.it, replaced every Monday: [CSV](weekly/pl-python/pl-python-latest.csv), [summary.json](weekly/pl-python/summary.json); salary summary: https://voiddo.com/data/python-jobs-poland-salaries/?src=github-pl-python
+- **Java** job offers in Poland from justjoin.it, replaced every Monday: [CSV](weekly/pl-java/pl-java-latest.csv), [summary.json](weekly/pl-java/summary.json); salary summary: https://voiddo.com/data/java-jobs-poland-salaries/?src=github-pl-java
+- **JavaScript** job offers in Poland from justjoin.it, replaced every Monday: [CSV](weekly/pl-javascript/pl-javascript-latest.csv), [summary.json](weekly/pl-javascript/summary.json); salary summary: https://voiddo.com/data/javascript-jobs-poland-salaries/?src=github-pl-javascript
+- **Data** job offers in Poland from justjoin.it, replaced every Monday: [CSV](weekly/pl-data/pl-data-latest.csv), [summary.json](weekly/pl-data/summary.json); salary summary: https://voiddo.com/data/data-jobs-poland-salaries/?src=github-pl-data
+
+Each file holds every offer of one justjoin.it category on the day of that week's run, all locations, one row per
+offer, with the same columns as the justjoin.it set below. Every Monday the CSV is replaced, and the history of its
+folder keeps every earlier week. `summary.json` gives the date, the counts and when the rows were collected. "Data" is
+justjoin.it's own category: data engineering, big data and BI offers. An ad of a sole trader whose business carries a
+person's name keeps that name and its link withheld. CC BY 4.0, as in the License section.
 
 ## justjoin.it: every Python offer in Poland on one day
 
