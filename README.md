@@ -2,13 +2,40 @@
 
 Real rows from our own scrapers, so you can see the columns before you order data or run a scraper yourself.
 Each file holds the rows one run returned. We leave out text fields that can name a person, such as job descriptions,
-and change nothing else.
+and change nothing else unless a set's section says so.
 
 | Set | Rows | Files |
 |---|---|---|
+| [justjoin.it: every Python offer in Poland on one day](#justjoinit-every-python-offer-in-poland-on-one-day) | 528 | [CSV](justjoin-it/python-jobs-poland-justjoin-2026-11-26.csv), [analysis.py](justjoin-it/analysis.py) |
 | [pracuj.pl: Python jobs in Warszawa, Poland](#pracujpl-python-jobs-in-warszawa-poland) | 50 | [CSV](pracuj-pl/python-warszawa-50.csv), [JSON](pracuj-pl/python-warszawa-50.json) |
 | [computrabajo: accountant jobs in Bogotá, Colombia](#computrabajo-accountant-jobs-in-bogotá-colombia) | 25 | [CSV](computrabajo/co-contador-bogota-25.csv), [JSON](computrabajo/co-contador-bogota-25.json) |
 | [computrabajo: accountant jobs in Monterrey, Mexico](#computrabajo-accountant-jobs-in-monterrey-mexico) | 10 | [CSV](computrabajo/mx-contador-monterrey-10.csv), [JSON](computrabajo/mx-contador-monterrey-10.json) |
+
+## justjoin.it: every Python offer in Poland on one day
+
+| | |
+|---|---|
+| Files | [`justjoin-it/python-jobs-poland-justjoin-2026-11-26.csv`](justjoin-it/python-jobs-poland-justjoin-2026-11-26.csv), [`justjoin-it/analysis.py`](justjoin-it/analysis.py) |
+| Rows | 528 job offers, one per offer, 25 columns, UTF-8 with BOM |
+| Source | the Python category of justjoin.it, all locations, as listed on 2026-11-26 (collected 14:18 UTC) |
+| Made with | [justjoin-it](https://voiddo.com/go/apify/justjoin-it/?src=gh) on Apify, input `{"categories":["python"],"salaryOnly":false,"maxItems":2000}` |
+
+Columns: `offerId`, `url`, `title`, `companyName`, `category`, `seniority`, `workMode`, `workingTime`, `city`,
+`locations`, `skills`, `contractTypes`, `salaryFrom`, `salaryTo`, `currency`, `salaryInterval`, `salaryType`,
+`contractType`, `salaries`, `promoted`, `remoteInterview`, `openToUkrainians`, `publishedAt`, `expiresAt`, `scrapedAt`.
+`salaries` holds the range of every contract type of an offer as JSON; lists such as `locations` and `skills` are
+joined with `; `.
+
+252 of the 528 offers show a salary. The site showed 1,029 offers that day, roughly one for every city an offer names
+(the `locations` lists add up to 1,028); the file has each offer once, with one city in `city` and every city it names
+in `locations`. There are no
+descriptions, recruiter names, contacts, street addresses or map points. Three offers come from a sole trader whose
+business name is a person's name: their `companyName` says "(sole trader, name withheld)" and their `url` points to
+the Python category page.
+
+`analysis.py` makes the salary tables from this file with the Python standard library only: `python3 analysis.py`
+prints the tables and writes `numbers.json` next to it. Its first lines state every rule (units, midpoints, quartiles,
+groups of 20 or more).
 
 ## pracuj.pl: Python jobs in Warszawa, Poland
 
