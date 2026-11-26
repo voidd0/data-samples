@@ -1,0 +1,1145 @@
+[
+ {
+  "title": "Senior Fullstack Engineer (Node.js + Python + Typescript) - Freelance",
+  "company": "NETGURU S.A.",
+  "location": "Warszawa",
+  "salaryText": "182,69 zł netto (+ VAT) / godz.",
+  "salaryMin": 182.69,
+  "salaryMax": 182.69,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-26T09:40:55Z",
+  "expiresAt": "2026-12-26T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-fullstack-engineer-node-js-%2b-python-%2b-typescript-freelance-warszawa,oferta,1005242305"
+ },
+ {
+  "title": "Backend Developer (Java, Python)",
+  "company": "Scalo Sp. z o.o.",
+  "location": "Warszawa",
+  "salaryText": "130 zł netto (+ VAT) / godz.",
+  "salaryMin": 130,
+  "salaryMax": 130,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-26T09:19:00Z",
+  "expiresAt": "2026-12-23T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/backend-developer-java-python-warszawa,oferta,1005234843"
+ },
+ {
+  "title": "Python/Java Developer for Transaction Monitoring",
+  "company": "IT CONNECT Sp. z o.o. Sp. k.",
+  "location": "Warszawa, Śródmieście",
+  "salaryText": "170 zł netto (+ VAT) / godz.",
+  "salaryMin": 170,
+  "salaryMax": 170,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "mid",
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-26T09:04:58Z",
+  "expiresAt": "2026-12-19T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-java-developer-for-transaction-monitoring-warszawa-chlodna-51,oferta,1005228906"
+ },
+ {
+  "title": "Senior Python Engineer (Data Pipelines)",
+  "company": "YARD CORPORATE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "location": "Warszawa",
+  "salaryText": "40 000–55 000 zł netto (+ VAT) / mies.",
+  "salaryMin": 40000,
+  "salaryMax": 55000,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-26T08:50:09Z",
+  "expiresAt": "2026-12-23T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-python-engineer-data-pipelines-warszawa,oferta,1005234692"
+ },
+ {
+  "title": "Senior Software Engineer (Python/Azure/AI) - K/M",
+  "company": "ASTEK Polska",
+  "location": "Warszawa",
+  "salaryText": "17 500–26 040 zł / mies. (zal. od umowy)",
+  "salaryMin": 17500,
+  "salaryMax": 18740,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T16:19:00Z",
+  "expiresAt": "2026-12-10T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-software-engineer-python-azure-ai-k-m-warszawa,oferta,1005214185"
+ },
+ {
+  "title": "Mid-Level Oracle/Python Data Analyst – Banking",
+  "company": "ITDS Polska Sp. z o.o.",
+  "location": "Warszawa",
+  "salaryText": "16 800–21 000 zł netto (+ VAT) / mies.",
+  "salaryMin": 16800,
+  "salaryMax": 21000,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-25T15:54:32Z",
+  "expiresAt": "2026-12-25T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/mid-level-oracle-python-data-analyst-banking-warszawa,oferta,1005241446"
+ },
+ {
+  "title": "Python Test Automation Engineer with AWS (f/m/x)",
+  "company": "Sii Sp. z o.o.",
+  "location": "Białystok, Centrum",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "onsite",
+   "remote",
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T15:36:49Z",
+  "expiresAt": "2026-11-28T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-test-automation-engineer-with-aws-f-m-x-bialystok-jozefa-marjanskiego-3,oferta,1005189708"
+ },
+ {
+  "title": "AI Developer (Python / RAG / GenAI)",
+  "company": "UPVANTA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "location": "Wrocław, Fabryczna",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-25T15:25:00Z",
+  "expiresAt": "2026-12-06T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/ai-developer-python-rag-genai-wroclaw-legnicka-70,oferta,1005207522"
+ },
+ {
+  "title": "Senior Python Engineer — MCP Protocol & Tool Integration",
+  "company": "EPAM Systems (Poland) sp. z o.o.",
+  "location": "Warszawa, Wola",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-25T15:20:07Z",
+  "expiresAt": "2026-12-10T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-python-engineer-mcp-protocol-tool-integration-warszawa-grzybowska-62,oferta,1005214041"
+ },
+ {
+  "title": "Senior Full Stack Engineer (Python + React + SQL)",
+  "company": "EPAM Systems (Poland) sp. z o.o.",
+  "location": "Warszawa, Wola",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T15:15:49Z",
+  "expiresAt": "2026-12-10T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-full-stack-engineer-python-%2b-react-%2b-sql-warszawa-aleja-solidarnosci-173,oferta,1005214028"
+ },
+ {
+  "title": "Lead Python Backend Engineer",
+  "company": "EPAM Systems (Poland) sp. z o.o.",
+  "location": "Warszawa, Wola",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "team leader"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-25T15:12:44Z",
+  "expiresAt": "2026-12-10T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/lead-python-backend-engineer-warszawa-aleja-solidarnosci-173,oferta,1005214021"
+ },
+ {
+  "title": "Senior Data Engineer (Python, AWS)",
+  "company": "EPAM Systems (Poland) sp. z o.o.",
+  "location": "Warszawa, Wola",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T14:58:53Z",
+  "expiresAt": "2026-12-10T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-data-engineer-python-aws-warszawa-aleja-solidarnosci-173,oferta,1005213934"
+ },
+ {
+  "title": "Senior Data Engineer (Java/Scala/Python, Spark, AWS)",
+  "company": "EPAM Systems (Poland) sp. z o.o.",
+  "location": "Warszawa, Wola",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T14:34:56Z",
+  "expiresAt": "2026-12-10T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-data-engineer-java-scala-python-spark-aws-warszawa-aleja-solidarnosci-173,oferta,1005213801"
+ },
+ {
+  "title": "Senior AI Solutions Engineer with Python",
+  "company": "EPAM Systems (Poland) sp. z o.o.",
+  "location": "Warszawa",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-25T14:33:27Z",
+  "expiresAt": "2026-12-10T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-ai-solutions-engineer-with-python-warszawa,oferta,1005213792"
+ },
+ {
+  "title": "Senior Cloud Native Developer (Python & AI)",
+  "company": "EPAM Systems (Poland) sp. z o.o.",
+  "location": "Kraków, Grzegórzki",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-25T13:54:55Z",
+  "expiresAt": "2026-12-10T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-cloud-native-developer-python-ai-krakow-fabryczna-1a,oferta,1005213478"
+ },
+ {
+  "title": "Python Developer",
+  "company": "Scalo Sp. z o.o.",
+  "location": "Warszawa",
+  "salaryText": "100–120 zł netto (+ VAT) / godz.",
+  "salaryMin": 100,
+  "salaryMax": 120,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T13:38:27Z",
+  "expiresAt": "2026-11-28T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-developer-warszawa,oferta,1005189288"
+ },
+ {
+  "title": "Python Developer (k/m/n)",
+  "company": "Nexio Management Sp. z o.o.",
+  "location": "Warszawa",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T13:35:21Z",
+  "expiresAt": "2026-12-05T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-developer-k-m-n-warszawa,oferta,1005203880"
+ },
+ {
+  "title": "Junior Python Backend Developer",
+  "company": "Fundacja Szkoła w Chmurze",
+  "location": "Warszawa, Żoliborz",
+  "salaryText": "5 500–8 500 zł / mies. (zal. od umowy)",
+  "salaryMin": 5500,
+  "salaryMax": 8500,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "junior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "mandate contract"
+  ],
+  "workModes": [
+   "onsite"
+  ],
+  "postedAt": "2026-11-25T12:50:15Z",
+  "expiresAt": "2026-12-25T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/junior-python-backend-developer-warszawa-powazkowska-44c,oferta,1005240711"
+ },
+ {
+  "title": "Python Developer",
+  "company": "Micro Solutions Sp. z o.o.",
+  "location": "Wrocław, Fabryczna",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "onsite",
+   "remote",
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T12:30:20Z",
+  "expiresAt": "2026-12-06T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-developer-wroclaw-legnicka-55f,oferta,1005206433"
+ },
+ {
+  "title": "Python Developer",
+  "company": "BLOCKWISE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "location": "Warszawa, Bemowo",
+  "salaryText": "12 000–25 000 zł / mies. (zal. od umowy)",
+  "salaryMin": 12000,
+  "salaryMax": 25000,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "junior"
+  ],
+  "contractTypes": [
+   "mandate contract",
+   "B2B"
+  ],
+  "workModes": [
+   "onsite"
+  ],
+  "postedAt": "2026-11-25T11:31:42Z",
+  "expiresAt": "2026-12-02T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-developer-warszawa-polczynska-112a,oferta,1005194775"
+ },
+ {
+  "title": "AI Agent Developer (Python)",
+  "company": "BLOCKWISE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "location": "Warszawa, Bemowo",
+  "salaryText": "7 000–11 000 zł / mies. (zal. od umowy)",
+  "salaryMin": 7000,
+  "salaryMax": 11000,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "junior"
+  ],
+  "contractTypes": [
+   "mandate contract",
+   "B2B"
+  ],
+  "workModes": [
+   "onsite"
+  ],
+  "postedAt": "2026-11-25T11:31:21Z",
+  "expiresAt": "2026-12-02T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/ai-agent-developer-python-warszawa-polczynska-112a,oferta,1005194774"
+ },
+ {
+  "title": "Data Scientist – Python & Cloud Data Platforms (f/m/x)",
+  "company": "Sii Sp. z o.o.",
+  "location": "Białystok, Centrum",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "mid",
+   "senior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "onsite",
+   "remote",
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T11:26:00Z",
+  "expiresAt": "2026-12-18T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/data-scientist-python-cloud-data-platforms-f-m-x-bialystok-jozefa-marjanskiego-3,oferta,1005226934"
+ },
+ {
+  "title": "Fullstack Python Software Engineer",
+  "company": "dotLinkers Sp. z o.o.",
+  "location": "Warszawa",
+  "salaryText": "38 000 zł brutto / mies.",
+  "salaryMin": 38000,
+  "salaryMax": 38000,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "employment contract"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T11:14:13Z",
+  "expiresAt": "2026-11-28T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/fullstack-python-software-engineer-warszawa,oferta,1005188412"
+ },
+ {
+  "title": "Analityk - UAV Python Data Analyst [K/M]",
+  "company": "\"FLYTRONIC\" S.A.",
+  "location": "Macierzysz (pow. warszawski zachodni)",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "junior",
+   "mid"
+  ],
+  "contractTypes": [
+   "employment contract"
+  ],
+  "workModes": [
+   "onsite"
+  ],
+  "postedAt": "2026-11-25T10:27:00Z",
+  "expiresAt": "2026-12-05T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/analityk-uav-python-data-analyst-k-m-macierzysz-pow-warszawski-zachodni,oferta,1005202883"
+ },
+ {
+  "title": "Full Stack Developer (Node.js / React / Python)",
+  "company": "IN4GE sp. z o.o.",
+  "location": "Warszawa",
+  "salaryText": "120–180 zł netto (+ VAT) / godz.",
+  "salaryMin": 120,
+  "salaryMax": 180,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-25T09:43:23Z",
+  "expiresAt": "2026-12-06T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/full-stack-developer-node-js-react-python-warszawa,oferta,1005205609"
+ },
+ {
+  "title": "Data Processing Specialist I Hadoop, Python, SQL (k/m)",
+  "company": "B2B.NET S.A.",
+  "location": "Warszawa",
+  "salaryText": "80–110 zł netto (+ VAT) / mies.",
+  "salaryMin": 80,
+  "salaryMax": 110,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T08:36:08Z",
+  "expiresAt": "2026-11-28T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/data-processing-specialist-i-hadoop-python-sql-k-m-warszawa,oferta,1005187691"
+ },
+ {
+  "title": "Python Developer",
+  "company": "QTalents.ai – QRQS.eu PSA",
+  "location": "Warszawa",
+  "salaryText": "14 000–40 000 zł / mies. (zal. od umowy)",
+  "salaryMin": 14000,
+  "salaryMax": 32000,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "mid",
+   "senior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "onsite",
+   "remote",
+   "hybrid"
+  ],
+  "postedAt": "2026-11-25T07:50:24Z",
+  "expiresAt": "2026-12-18T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-developer-warszawa,oferta,1005225869"
+ },
+ {
+  "title": "Senior Python Developer (PostgreSQL)",
+  "company": "CodeTalent Sp. z o.o.",
+  "location": "Warszawa",
+  "salaryText": "145–180 zł netto (+ VAT) / godz.",
+  "salaryMin": 145,
+  "salaryMax": 180,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-24T16:00:00Z",
+  "expiresAt": "2026-12-13T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-python-developer-postgresql-warszawa,oferta,1005219273"
+ },
+ {
+  "title": "Software Engineer 2 (Java/Kotlin/Python) - Search Relevance",
+  "company": "Allegro",
+  "location": "Warszawa, Wola",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "employment contract"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-24T16:00:00Z",
+  "expiresAt": "2026-12-21T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/software-engineer-2-java-kotlin-python-search-relevance-warszawa-zelazna-51-53,oferta,1005233856"
+ },
+ {
+  "title": "Python Developer (Data / Backend))",
+  "company": "Cyclad",
+  "location": "Warszawa",
+  "salaryText": "75–90 zł netto (+ VAT) / godz.",
+  "salaryMin": 75,
+  "salaryMax": 90,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-24T14:35:04Z",
+  "expiresAt": "2026-12-17T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-developer-data-backend-warszawa,oferta,1005225210"
+ },
+ {
+  "title": "Data Scientist Python",
+  "company": "Connectis_",
+  "location": "Warszawa, Wola",
+  "salaryText": "142–166 zł netto (+ VAT) / godz.",
+  "salaryMin": 142,
+  "salaryMax": 166,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-24T13:58:20Z",
+  "expiresAt": "2026-12-24T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/data-scientist-python-warszawa-chmielna-71,oferta,1005238601"
+ },
+ {
+  "title": "Full-stack Developer (React / Next.js / Python)",
+  "company": "HIBERUS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "location": "Warszawa",
+  "salaryText": "15 120–21 000 zł netto (+ VAT) / mies.",
+  "salaryMin": 15120,
+  "salaryMax": 21000,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "mid",
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-24T13:51:56Z",
+  "expiresAt": "2026-12-09T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/full-stack-developer-react-next-js-python-warszawa,oferta,1005210547"
+ },
+ {
+  "title": "Python Backend Developer | Branża Bankowa",
+  "company": "Edge One Solutions Sp. z o.o.",
+  "location": "Warszawa",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-24T13:30:21Z",
+  "expiresAt": "2026-12-05T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-backend-developer-branza-bankowa-warszawa,oferta,1005203848"
+ },
+ {
+  "title": "Python / AI Agent Developer (m/n/k)",
+  "company": "Nexio Management Sp. z o.o.",
+  "location": "Warszawa",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B",
+   "agency contract"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-24T12:19:33Z",
+  "expiresAt": "2026-12-24T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-ai-agent-developer-m-n-k-warszawa,oferta,1005238154"
+ },
+ {
+  "title": "Middle Python Developer",
+  "company": "Integral Solutions",
+  "location": "Warszawa, Śródmieście",
+  "salaryText": "80–95 zł netto (+ VAT) / godz.",
+  "salaryMin": 80,
+  "salaryMax": 95,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-24T12:02:01Z",
+  "expiresAt": "2026-12-05T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/middle-python-developer-warszawa-ksiedza-ignacego-jana-skorupki-5,oferta,1005218348"
+ },
+ {
+  "title": "Python Developer (Sports sphere)",
+  "company": "COHERENT SOLUTIONS sp. z o.o.",
+  "location": "Wrocław, Krzyki",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "remote",
+   "hybrid"
+  ],
+  "postedAt": "2026-11-24T12:00:00Z",
+  "expiresAt": "2026-12-17T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-developer-sports-sphere-wroclaw-powstancow-slaskich-7a,oferta,1005224401"
+ },
+ {
+  "title": "Programista Python (k/m/x)",
+  "company": "B2B.NET S.A.",
+  "location": "Warszawa",
+  "salaryText": "105 zł netto (+ VAT) / godz.",
+  "salaryMin": 105,
+  "salaryMax": 105,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-24T11:54:05Z",
+  "expiresAt": "2026-12-05T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/programista-python-k-m-x-warszawa,oferta,1005203356"
+ },
+ {
+  "title": "Senior Fullstack Engineer (Python + React)",
+  "company": "CLOUDFIDE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "location": "Warszawa, Praga-Południe",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "mandate contract",
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-24T11:47:11Z",
+  "expiresAt": "2026-11-27T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-fullstack-engineer-python-%2b-react-warszawa-jana-nowaka-jezioranskiego-53a,oferta,1005186056"
+ },
+ {
+  "title": "Python Developer (Sports domain)",
+  "company": "COHERENT SOLUTIONS sp. z o.o.",
+  "location": "Wrocław, Krzyki",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "mid",
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote",
+   "hybrid"
+  ],
+  "postedAt": "2026-11-23T16:00:00Z",
+  "expiresAt": "2026-12-20T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-developer-sports-domain-wroclaw-powstancow-slaskich-7a,oferta,1005233654"
+ },
+ {
+  "title": "Senior AI Engineer (Python, LLMs)",
+  "company": "Addepto",
+  "location": "Warszawa",
+  "salaryText": "19 320–25 200 zł / mies. (zal. od umowy)",
+  "salaryMin": 19320,
+  "salaryMax": 25200,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "mandate contract",
+   "B2B"
+  ],
+  "workModes": [
+   "onsite",
+   "remote",
+   "hybrid"
+  ],
+  "postedAt": "2026-11-23T14:53:26Z",
+  "expiresAt": "2026-12-12T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-ai-engineer-python-llms-warszawa,oferta,1005216946"
+ },
+ {
+  "title": "AI Engineer (Python, LLMs)",
+  "company": "Addepto",
+  "location": "Warszawa",
+  "salaryText": "12 600–19 320 zł / mies. (zal. od umowy)",
+  "salaryMin": 12600,
+  "salaryMax": 19320,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "mandate contract",
+   "B2B"
+  ],
+  "workModes": [
+   "onsite",
+   "remote",
+   "hybrid"
+  ],
+  "postedAt": "2026-11-23T14:52:49Z",
+  "expiresAt": "2026-12-12T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/ai-engineer-python-llms-warszawa,oferta,1005216941"
+ },
+ {
+  "title": "Senior Python AI Engineer – LLM & RAG",
+  "company": "ITDS Polska Sp. z o.o.",
+  "location": "Wrocław",
+  "salaryText": "21 000–27 300 zł netto (+ VAT) / mies.",
+  "salaryMin": 21000,
+  "salaryMax": 27300,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote",
+   "hybrid"
+  ],
+  "postedAt": "2026-11-23T14:20:58Z",
+  "expiresAt": "2026-12-16T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-python-ai-engineer-llm-rag-wroclaw,oferta,1005222273"
+ },
+ {
+  "title": "Senior Python Developer - Freelance",
+  "company": "NETGURU S.A.",
+  "location": "Warszawa",
+  "salaryText": "150 zł netto (+ VAT) / godz.",
+  "salaryMin": 150,
+  "salaryMax": 150,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-23T13:31:43Z",
+  "expiresAt": "2026-11-28T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-python-developer-freelance-warszawa,oferta,1005189265"
+ },
+ {
+  "title": "Software Engineer 2 (Java/Kotlin/Python) - Allegro Translations",
+  "company": "Allegro",
+  "location": "Warszawa, Wola",
+  "salaryText": "14 600–20 825 zł brutto / mies.",
+  "salaryMin": 14600,
+  "salaryMax": 20825,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "employment contract"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-23T13:20:48Z",
+  "expiresAt": "2026-11-26T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/software-engineer-2-java-kotlin-python-allegro-translations-warszawa-zelazna-51-53,oferta,1005184008"
+ },
+ {
+  "title": "Starszy Programista Python (k/m)",
+  "company": "RUBLON sp. z o.o.",
+  "location": "Zielona Góra",
+  "salaryText": "15 000–27 000 zł / mies. (zal. od umowy)",
+  "salaryMin": 15000,
+  "salaryMax": 19000,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-23T13:19:34Z",
+  "expiresAt": "2026-12-18T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/starszy-programista-python-k-m-zielona-gora-stanislawa-wyspianskiego-11,oferta,1005227529"
+ },
+ {
+  "title": "Programista Python (k/m)",
+  "company": "RUBLON sp. z o.o.",
+  "location": "Zielona Góra",
+  "salaryText": "10 000–20 000 zł / mies. (zal. od umowy)",
+  "salaryMin": 10000,
+  "salaryMax": 14000,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "month",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "employment contract",
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-23T13:11:47Z",
+  "expiresAt": "2026-12-18T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/programista-python-k-m-zielona-gora-stanislawa-wyspianskiego-11,oferta,1005227476"
+ },
+ {
+  "title": "AI Engineer (Python)",
+  "company": "TAURON NOWA ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+  "location": "Warszawa",
+  "salaryText": null,
+  "salaryMin": null,
+  "salaryMax": null,
+  "salaryCurrency": null,
+  "salaryInterval": null,
+  "positionLevels": [
+   "mid",
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "hybrid"
+  ],
+  "postedAt": "2026-11-23T10:26:52Z",
+  "expiresAt": "2026-11-26T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/ai-engineer-python-warszawa,oferta,1005182999"
+ },
+ {
+  "title": "Software Developer (Python/Azure/AI)",
+  "company": "Cyclad",
+  "location": "Wrocław",
+  "salaryText": "90–110 zł netto (+ VAT) / godz.",
+  "salaryMin": 90,
+  "salaryMax": 110,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-23T11:18:12Z",
+  "expiresAt": "2026-12-16T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/software-developer-python-azure-ai-wroclaw,oferta,1005221224"
+ },
+ {
+  "title": "Python Developer with GenAI",
+  "company": "YOUR ITEAMS sp. z o.o.",
+  "location": "Warszawa",
+  "salaryText": "100–160 zł netto (+ VAT) / godz.",
+  "salaryMin": 100,
+  "salaryMax": 160,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "mid"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-22T14:58:51Z",
+  "expiresAt": "2026-12-03T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/python-developer-with-genai-warszawa,oferta,1005198835"
+ },
+ {
+  "title": "Senior Software Engineer (Python; Cloud)",
+  "company": "WPP Enterprise Solutions",
+  "location": "Poznań, Wilda",
+  "salaryText": "140–200 zł netto (+ VAT) / godz.",
+  "salaryMin": 140,
+  "salaryMax": 200,
+  "salaryCurrency": "PLN",
+  "salaryInterval": "hour",
+  "positionLevels": [
+   "senior"
+  ],
+  "contractTypes": [
+   "B2B"
+  ],
+  "workModes": [
+   "remote"
+  ],
+  "postedAt": "2026-11-22T10:59:37Z",
+  "expiresAt": "2026-12-03T22:59:59Z",
+  "url": "https://www.pracuj.pl/praca/senior-software-engineer-python-cloud-poznan-wierzbiecice-1a,oferta,1005197556"
+ }
+]
