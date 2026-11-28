@@ -1,5 +1,7 @@
 # data samples by vøiddo
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24579511.svg)](https://doi.org/10.5281/zenodo.24579511)
+
 Real rows from our own scrapers, so you can see the columns before you order data or run a scraper yourself.
 Each file holds the rows one run returned. We leave out text fields that can name a person, such as job descriptions,
 and change nothing else unless a set's section says so.
@@ -115,6 +117,13 @@ The rows are a compilation by vøiddo, shared under [CC BY 4.0](https://creative
 ads themselves belong to their publishers, and each row links to the original. They are public job ads as each site
 showed them on the day of the run; you are responsible for how you use them, under the law where you use them and the
 rules of the site.
+
+## How to cite
+
+Every release of this repository is archived on Zenodo. To cite the data, use the DOI that covers all versions:
+vøiddo, *vøiddo data samples: public job board offers in Poland, Mexico and Colombia*, Zenodo,
+[doi.org/10.5281/zenodo.24579511](https://doi.org/10.5281/zenodo.24579511). Each release also has its own DOI, shown
+as "Cite as" on its Zenodo page.
 
 ## want rows like these for your own search?
 

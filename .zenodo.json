@@ -1,0 +1,21 @@
+{
+  "title": "vøiddo data samples: public job board offers in Poland, Mexico and Colombia",
+  "description": "Job offers from public job board pages, collected with vøiddo's public scrapers, as CSV (JSON too for the small samples).<br><br>- weekly/: the latest file of six weekly series, replaced every Monday. Python, Java, JavaScript and Data jobs in Poland from justjoin.it and accountant (contador) jobs in Mexico and Colombia from Computrabajo, each with a summary.json that gives the week's date and offer count.<br>- justjoin-it/: 528 Python offers in Poland with analysis.py, the script behind the published numbers.<br>- pracuj-pl/: the first 50 offers of a pracuj.pl search for Python in Warszawa.<br>- computrabajo/: 10 accountant offers in Monterrey and 25 in Bogotá.<br><br>Factual columns only: title, company, place, pay as the offer states it, contract, dates and a link to the original offer. Job descriptions and any private person's name or contact are left out; an employer that is a private person is shown as withheld. The compilation is under CC BY 4.0; the job ads belong to their publishers.<br><br>Larger or fresh files: https://voiddo.com/data/?src=zenodo",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "vøiddo"
+    }
+  ],
+  "keywords": [
+    "job postings",
+    "salaries",
+    "labour market",
+    "web scraping",
+    "Poland",
+    "Mexico",
+    "Colombia"
+  ]
+}
